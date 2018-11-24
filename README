@@ -1,0 +1,10 @@
+Alex Laubscher
+11/23/18
+
+This is some code to solve the stolen necklace problem for any length neckalce and any number of different jewels on the necklace. When I say solving, I mean it will find a solution for cutting the necklace in a valid way that suits the constraints of the problem. Here is the problem:
+
+Given a necklace of n jewels of random length and random assortment, it should never take more than n cuts to split each respective jewel between two people. This assumes that the necklace is unlatched, so it looks like a string of jewels. 
+
+At this stage, the code solves the problem when there are two types of jewels on the necklace. I am building towards the recursive solution that will then solve it for n types of jewels.
+
+email: aclaubscher17@gmail.com
